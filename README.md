@@ -14,6 +14,7 @@
 ## MVVM Architecture 
 <p align="left">
     <img src="images/mvvm.png"
+          width="600" height="550"
         style="margin-right: 20px;"
     />
 </p>
