@@ -11,7 +11,7 @@
 - Content Provider 
 ## ConsumerApp Feature
 - Subsribe Favorite User From Main App
-## MVVM Architecture 
+## Android Architecture Components
 <p align="left">
     <img src="images/mvvm.png"
           width="600" height="550"
